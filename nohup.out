@@ -1,0 +1,10 @@
+(513, 513)
+Traceback (most recent call last):
+  File "/home/anirudh/dokumente/code/bec-python-cuda-2d/main.py", line 138, in <module>
+    timefile.write('Clock time: ', time.process_time()-start,'seconds')
+TypeError: TextIOWrapper.write() takes exactly one argument (3 given)
+(513, 513)
+Traceback (most recent call last):
+  File "/home/anirudh/dokumente/code/bec-python-cuda-2d/main.py", line 138, in <module>
+    timefile.write('Clock time: ', time.process_time()-start,'seconds')
+TypeError: TextIOWrapper.write() takes exactly one argument (3 given)
